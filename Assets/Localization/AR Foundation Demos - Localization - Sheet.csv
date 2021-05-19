@@ -1,0 +1,13 @@
+key,context,English(en)
+FEATURES,Reason,Look for more textures or details in the area.
+INIT,Reason,Initializing augmented reality.
+LIGHT,Reason,Area is too dark. Try going to a more well lit area.
+MOTION,Reason,Try moving at a slower pace.
+NONE,Reason,Wait for tracking to begin.
+UNSUPPORTED,Reason,AR content is not supported.
+FIND_BODY,Instruction,Find a Body to Track
+FIND_FACE,Instruction,Find a Face to Track
+FIND_IMAGE,Instruction,Find an Image to Track
+FIND_OBJECT,Instruction,Find an Object to Track
+MOVE_DEVICE,Instruction,Move Device Slowly
+TAP_TO_PLACE,Instruction,Double Tap to Place Organ
